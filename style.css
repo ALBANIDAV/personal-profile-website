@@ -357,19 +357,19 @@ img {
 }
 
 .skills__html {
-    width: 20%;
-}
-
-.skills__css {
     width: 50%;
 }
 
-.skills__js {
+.skills__css {
     width: 40%;
 }
 
+.skills__js {
+    width: 25%;
+}
+
 .skills__py {
-    width: 40%;
+    width: 20%;
 }
 
 .skills__img {
